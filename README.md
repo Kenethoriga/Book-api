@@ -1,4 +1,3 @@
-This project is a simple Django application that provides CRUD (Create, Read, Update, Delete) functionality for a book API.
 
 Getting Started
 
